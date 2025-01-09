@@ -23,3 +23,9 @@ API : Open weather app
 <div className='bg-gradient-to-br from-background to-muted'> : (from-background to-muted) ..basically means that
 <main className='min-h-screen container mx-auto px-4 py-8'> : container class provides different breakpoints when our screen size changes and provides better responsiveness
 <footer className='border-t backdrop-blur py-12 supports-[backdrop-filter]:bg-background/60'> : this (supports-[backdrop-filter]) makes background to be 60%...ie we are applying 60% opacity to our backgournd
+
+
+
+new way to run the app
+
+do cd dist and then run npx serve
